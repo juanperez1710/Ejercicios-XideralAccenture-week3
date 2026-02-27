@@ -9,7 +9,7 @@ Este repositorio contiene la colección de **ejercicios prácticos** de la seman
 - **Ejercicio 2: Caché Genérico con Expiración**
 - **Ejercicio 3: Validador Composable con Lambdas**
 - **Ejercicio 4: Análisis de Ventas con Streams**
-- **Ejercicio 5: Pipeline de Procesamiento de Texto **
+- **Ejercicio 5: Pipeline de Procesamiento de Texto**
 - **Ejercicio 6: Web Scraper Concurrente con CompletableFuture**
 
 
